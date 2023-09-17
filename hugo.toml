@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
   image = "img/author.png"  # path relative to static directory
 
   links = [
-    { email = "mailto:contact@evanphx.dev" },
+    { email = "mailto:evan@evanphx.dev" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
